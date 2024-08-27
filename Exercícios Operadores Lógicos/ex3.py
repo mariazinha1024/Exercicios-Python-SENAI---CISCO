@@ -3,4 +3,5 @@
 algo = input("Digite algo: ")
 print("As classe do que você digitou é: ")
 print(type(algo))
+print(id(algo))
 print(f"O que você digitou foi: {algo}.")
